@@ -16,7 +16,7 @@ int main()
         y = log(pow(x, 3)) + 2 * cos(x) - 2;
         cout << x << setw(25) << y << endl;
         x += h;
-        Sleep(35);
+        Sleep(66);
     }
 
 
